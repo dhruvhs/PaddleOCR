@@ -1,3 +1,4 @@
+paddlepaddle
 shapely
 scikit-image
 imgaug==0.4.0
